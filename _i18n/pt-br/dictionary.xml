@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <blocks>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="summary">O plug-in do SnapCenter para VMware vSphere (SCV) é um dispositivo virtual baseado em Linux. Como autônomo, ele oferece operações de backup e restauração rápidas, com uso eficiente de espaço, consistentes com falhas e consistentes com VM para VMs, armazenamentos de dados e VMDKs. Ele também funciona com o servidor SnapCenter para dar suporte a operações de backup e restauração baseadas em aplicativos em ambientes VMware para plug-ins específicos de aplicativos do SnapCenter.</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="doc">Plug-in do SnapCenter para documentação do VMware vSphere</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="summary"></block>
   <block id="30d965eef5ba25c6b9998ae38270b43e" category="doc">Avisos legais</block>
   <block id="e9c44bbfd795a5d63d74c6a77afee70d" category="paragraph">Avisos legais fornecem acesso a declarações de direitos autorais, marcas registradas, patentes e muito mais.</block>
@@ -1894,4 +1893,20 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">Workflows de APIs REST para modificar programações incorporadas</block>
   <block id="f683581d3e75f05f9d9215f9b4696cef" category="sidebar">Atualização</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">Atualize para um novo patch da mesma versão</block>
+  <block id="42e8a2d79a91b0d42222250a3b2e436c" category="sidebar">O plug-in do SnapCenter para VMware vSphere (SCV) é um dispositivo virtual baseado em Linux. Como autônomo, ele oferece operações de backup e restauração rápidas, com uso eficiente de espaço, consistentes com falhas e consistentes com VM para VMs, armazenamentos de dados e VMDKs. Ele também funciona com o servidor SnapCenter para dar suporte a operações de backup e restauração baseadas em aplicativos em ambientes VMware para plug-ins específicos de aplicativos do SnapCenter. Esta biblioteca de documentação descreve o plug-in do SnapCenter para VMware vSphere versões 4,6.</block>
+  <block id="208549901462fece5d6f3b783a3aefde" category="sidebar">Plug-in do SnapCenter para documentação do VMware vSphere 4,6</block>
+  <block id="5dd03e8d039863e563e049be198c3fd3" category="sidebar">Notas de versão</block>
+  <block id="e726fb41e1d7a22426e4a9637075810c" category="sidebar">Saiba mais sobre SCV</block>
+  <block id="ff31982aef870d546d52f49bb30ef34b" category="sidebar">Requisitos de implantação</block>
+  <block id="f87889e78c8188fffcbd96ceaef56759" category="sidebar">Proteja VMs, VMDKs e armazenamentos de dados</block>
+  <block id="222e11fb018a824c05f5fc6a922f5240" category="sidebar">Proteja seus dados</block>
+  <block id="13f1397303dbc6596a7d0adff2836250" category="sidebar">Use APIS REST</block>
+  <block id="26ad26eacebffe3e8571ecf8c6cc3eaf" category="sidebar">Migrar da SCV baseada no Windows</block>
+  <block id="813011e2103649bb71f124adedcc10ea" category="sidebar">Blogs &amp; comunidade</block>
+  <block id="8a49edffe2e22d8746e8c1676b54b1e5" category="sidebar">NetApp blog – SCV</block>
+  <block id="f62203a113eda99708c4011593033d16" category="sidebar">Comunidade NetApp – SCV</block>
+  <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Mais recursos</block>
+  <block id="7608e75619cff3eeb4e8bce40481b456" category="sidebar">Documentação do software SnapCenter</block>
+  <block id="11d88a82190664755120fc16494310df" category="sidebar">Documentação para versões anteriores da SCV</block>
+  <block id="74fe1f888648848c4fd5f85ae847a16c" category="sidebar">Base de Conhecimento NetApp – SCV</block>
 </blocks>
